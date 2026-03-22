@@ -1,121 +1,139 @@
-<!-- MATRIX HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=250&section=header&text=VIVAAN%20DHANAKER&fontColor=00ff00&fontSize=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=300&section=header&text=VIYAAN%20DHANAKER&fontColor=00ff00&fontSize=70&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- MATRIX GIF -->
 <p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%" alt="Matrix GIF"/>
 </p>
 
-<!-- TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+VIPUL+AI;Future+Hacker"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Enthusiast;Building+VIPUL+AI;System+Architect;Future+Cybersecurity+Expert;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-00ff00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20Future-black?style=for-the-badge" />
 </p>
 
 ---
 
-# 👨‍💻 Hey 👋 I'm Vivaan Dhanaker  
+## 💫 About Me 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  I'm a passionate <b>Full Stack Developer</b> and <b>AI Enthusiast</b> from India. 
+  I love building intelligent systems and exploring the deep ends of web technologies.
+</p>
 
-💻 **Full Stack Developer | AI Enthusiast | Future Hacker**  
-
----
-
-## 🧠 About Me
-- 🚀 Building **VIPUL AI Assistant** — your intelligent companion
-- 💻 Passionate about clean code, automation, and system design
-- 🎯 Goal: Become an elite developer and open-source contributor
-- ⚡ Constantly exploring new technologies and pushing boundaries
+* 🔭 I’m currently working on **VIPUL AI Assistant**.
+* 🌱 I’m currently learning **Advanced System Design & LLMs**.
+* 👯 I’m looking to collaborate on **Open Source AI Projects**.
+* 🤔 I’m looking for help with **Scalable Cloud Infrastructure**.
+* 💬 Ask me about **React, Node.js, or Python**.
+* 📫 How to reach me: **viyaan.dev@gmail.com**
+* ⚡ Fun fact: **I speak both Human and Machine languages fluently.**
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
-> **Note:** Add your social links by replacing `#` with your actual profile URLs.
-
----
-
-## 🚀 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,github,vscode,linux,figma" />
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
 </p>
 
 ---
 
-## 🧩 Skill Breakdown
+## 🛠️ My Tech Stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### 🎨 Frontend Development
+| Tool | Badge | Experience |
+| :--- | :--- | :--- |
+| **HTML5** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Advanced |
+| **CSS3** | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Advanced |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | Professional |
+| **React.js** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | Intermediate |
+| **Tailwind** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | Intermediate |
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### ⚙️ Backend & Database
+| Tool | Badge | Experience |
+| :--- | :--- | :--- |
+| **Node.js** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | Professional |
+| **Python** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Professional |
+| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | Intermediate |
+| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | Beginner |
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=viyaandhanaker&show_icons=true&theme=tokyonight&title_color=00ff00&icon_color=00ff00&bg_color=0d1117&hide_border=true"/>
+### 🛠️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,docker,aws,postman,arduino&perline=10" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viyaandhanaker&theme=tokyonight&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&hide_border=true"/>
-</p>
+## 🚀 Projects Showcases
+
+### 🤖 01. VIPUL AI Assistant
+> A sophisticated AI companion built using Python and LLM integration to automate daily tasks.
+- **Tech:** Python, OpenAI API, Speech Recognition.
+- [View Code](#) | [Live Demo](#)
+
+### 🌐 02. Personal Portfolio 3.0
+> A high-performance portfolio website with interactive 3D elements.
+- **Tech:** React, Three.js, Framer Motion.
+- [View Code](#) | [Live Demo](#)
+
+### 🛒 03. E-Commerce Backend
+> Scalable microservices architecture for a modern shopping platform.
+- **Tech:** Node.js, Express, MongoDB, Docker.
+- [View Code](#) | [Live Demo](#)
 
 ---
 
-## 📈 Activity Graph
+## 📈 Detailed GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viyaandhanaker&theme=github-compact&color=00ff00&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viyaandhanaker&show_icons=true&theme=tokyonight&title_color=00ff00&icon_color=00ff00&bg_color=0d1117&hide_border=true&count_private=true" width="480" />
 </p>
 
----
-
-## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viyaandhanaker&layout=compact&theme=tokyonight&title_color=00ff00&icon_color=00ff00&bg_color=0d1117&hide_border=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viyaandhanaker&theme=tokyonight&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&hide_border=true&bg_color=0d1117" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viyaandhanaker&theme=tokyonight&color=00ff00&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=viyaandhanaker&theme=matrix&no-frame=true&margin-w=10&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=viyaandhanaker&theme=matrix&no-frame=true&margin-w=15&column=5" />
 </p>
 
 ---
 
-## 👁️ Visitor Counter
+## 🐍 Contribution Snake
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=viyaandhanaker&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/viyaandhanaker/viyaandhanaker/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </p>
 
 ---
 
+## 💬 Daily Coding Inspiration
 <p align="center">
-✨ **Code. Create. Conquer.** ✨
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </p>
 
-<!-- FOOTER WAVES -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/>
-</p>
+---
+
+## 📊 My Coding Activity (Last 7 Days)
+```text
+Python     12 hrs 30 mins  ████████████░░░░░░░░░░░  52%
+JavaScript 8 hrs 15 mins   ████████░░░░░░░░░░░░░░░  34%
+HTML/CSS   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░  14%
