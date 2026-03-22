@@ -1,28 +1,31 @@
 <!-- MATRIX HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=200&section=header&text=Welcome%20To%20My%20Profile&fontColor=00FF00&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=250&section=header&text=VIVAAN%20DHANAKER&fontColor=00ff00&fontSize=50&animation=fadeIn"/>
 </p>
 
-<!-- HACKER GIF -->
+<!-- MATRIX GIF -->
 <p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%"/>
 </p>
 
-<!-- NAME -->
-<h1 align="center">Hey 👋, I'm Viyaandhanaker</h1>
-
-<!-- TYPING EFFECT -->
+<!-- TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Full+Stack+Developer;AI+Enthusiast;Future+Hacker;Tech+Lover"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Future+Hacker;Building+VIPUL+AI"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔥 Passionate about Coding & AI  
-- 💻 Building Jarvis Like Assistant  
-- 🚀 Learning Full Stack + Automation  
-- 🎯 Goal: Become Pro Developer  
+# 👨‍💻 Hey 👋 I'm Vivaan Dhanaker  
+
+💻 **Full Stack Developer | AI Enthusiast | Future Hacker**  
+
+---
+
+## 🧠 About Me
+- 🚀 Building **VIPUL AI Assistant**
+- 💻 Love Coding + Automation
+- 🎯 Goal: Become Elite Developer
+- ⚡ Always learning new tech  
 
 ---
 
@@ -37,28 +40,71 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mongodb,git,github,vscode,linux" />
 </p>
 
 ---
 
-## ⚡ GitHub Stats
+## 🧩 Skill Sections
+
+### 🎨 Frontend
+HTML • CSS • JS • React  
+
+### ⚙️ Backend
+Node.js • Python  
+
+### ☁️ DevOps
+Git • GitHub • Linux  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=00ff00&icon_color=00ff00"/>
+<img src="https://github-readme-stats.vercel.app/api?username=viyaandhanaker&show_icons=true&theme=tokyonight&title_color=00ff00"/>
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&ring=00ff00&fire=00ff00"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=viyaandhanaker&theme=tokyonight&ring=00ff00"/>
 </p>
 
 ---
 
-## 🧠 Skills
-```diff
-+ Frontend: HTML, CSS, JavaScript
-+ Backend: Node.js, Python
-+ Database: MongoDB
-+ Tools: Git, VS Code
+## 📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viyaandhanaker&theme=github-compact&color=00ff00"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=viyaandhanaker&theme=matrix&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🟢 Visitor Count
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=viyaandhanaker&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+✨ FEEL FREE TO EXPLORE ✨
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/>
+</p>
