@@ -9,7 +9,7 @@
 </p>
 
 <!-- NAME -->
-<h1 align="center">Hey 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hey 👋, I'm Viyaandhanaker</h1>
 
 <!-- TYPING EFFECT -->
 <p align="center">
